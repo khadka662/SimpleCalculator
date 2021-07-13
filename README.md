@@ -1,4 +1,4 @@
-# SimpleCalculator
+## SimpleCalculator
 
 ![images3](https://user-images.githubusercontent.com/84699135/125451426-d3e196df-76d5-4e75-93da-1dd78bda9cfe.png)
 
@@ -22,7 +22,7 @@ It is used to calculate the  mathmatical operation which is difficult for human 
  + we can solve complex mathmatical problem easily without error.
 
 
-## Sagar Khadka
+# Sagar Khadka
 
 Student ID : 210244
 Batch: 30 Section "b"
