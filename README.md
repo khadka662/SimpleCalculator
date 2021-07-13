@@ -1,4 +1,4 @@
 # SimpleCalculator
 
+![images3](https://user-images.githubusercontent.com/84699135/125451426-d3e196df-76d5-4e75-93da-1dd78bda9cfe.png)
 
-![images1](https://user-images.githubusercontent.com/84699135/125451042-40ccab72-0ab8-4470-8407-66a3300dc283.png)
