@@ -30,5 +30,5 @@ Sagar Khadka
 
 Student ID : 210244
 
-Batch: 30 Section "b"
+Batch: 30 Section "B"
   
