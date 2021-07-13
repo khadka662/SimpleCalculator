@@ -14,10 +14,16 @@ It is used to calculate the  mathmatical operation which is difficult for human 
 
 ## Features Of the Project
 
- The major functions of calculator are listed below:
+ The major features of calculator are listed below:
  + we can add two numbers by using Add button "+".
  + we can substract one number from another by using Substraction button "-".
  + we can multiply two numbers by using multiplication button "*".
  + we can divide one number by another by using divide button "/".
  + we can solve complex mathmatical problem easily without error.
+
+
+## Sagar Khadka
+
+Student ID : 210244
+Batch: 30 Section "b"
   
