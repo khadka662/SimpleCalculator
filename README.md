@@ -22,9 +22,9 @@ It is used to calculate the  mathmatical operation which is difficult for human 
  + we can solve complex mathmatical problem easily without error.
 
 
- Sagar Khadka
 
+
+Sagar Khadka
 Student ID : 210244
-
 Batch: 30 Section "b"
   
