@@ -2,14 +2,14 @@ from tkinter import *
 from math import*
 
 root = Tk()
-root.geometry("415x346")
+root.geometry("413x352")
 # defining the title
 root.title("calculator ")
 root.config(background="light blue")
 root.iconbitmap('C:/Users/ASUS/Downloads/a.ico')
 
-entry = Entry(root, width=40,borderwidth=15)
-entry.grid(row = 0,column=0, columnspan=3,  padx=10, pady=10)
+entry = Entry(root, width=15,borderwidth=10, font="aerial 20 bold")
+entry.grid(row = 0,column=0, columnspan=4,  padx=10, pady=10)
 
 
 
